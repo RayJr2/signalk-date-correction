@@ -1,0 +1,11 @@
+{
+    "name": "signalk-date-correction",
+    "version": "0.1.0",
+    "description": "Signal K plugin to correct sensor date-time data to match the current system date",
+    "main": "index.js",
+    "keywords": ["signalk", "plugin", "date-time", "correction"],
+    "author": "RayJr",
+    "license": "GNU",
+    "dependencies": {}
+  }
+  

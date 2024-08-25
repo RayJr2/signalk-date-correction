@@ -1,0 +1,13 @@
+{
+    "pluginSchema": {
+      "type": "object",
+      "properties": {
+        "enabled": {
+          "type": "boolean",
+          "title": "Enable Plugin",
+          "default": true
+        }
+      }
+    }
+  }
+  
